@@ -1,0 +1,2 @@
+# fwnmr
+FWNMR course
