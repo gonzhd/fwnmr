@@ -21,7 +21,7 @@ in a notebook environment called Jupyter Lab.
       * apodization
       * FFT
       * phase and baseline correction
-      * normalisation and binning 
+      * normalisation and binning
     * Developing basic plotting capabilities
 
 ### Second Session
